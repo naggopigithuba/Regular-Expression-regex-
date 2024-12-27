@@ -1,3 +1,10 @@
+# Description
+This Python script allows searching for a regular expression (regex) pattern across .txt files in a specified folder and highlights matches in both the filenames and the text content. The ColorHighlighter class adds colored highlighting to the text, and the TextFileSearch class manages searching through the files and displaying matches.
+# Additional Explanation
+Additional Explanation:
+The main script allows users to input a regular expression, and it will perform a search across all .txt files in the current folder, displaying results in a highlighted format. You can customize the colors and further adapt the functionality as needed.
+
+# Description about the regex
 \A: Matches the specified characters at the beginning of the string.
 
 Input: ^\AThis
